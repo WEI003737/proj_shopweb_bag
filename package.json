@@ -1,0 +1,15 @@
+{
+  "name": "proj_shopweb_bag",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "build-css": "sass css/stylesheet.scss:css/stylesheet.css --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wei <test@gmail.com>",
+  "license": "ISC",
+  "description": ""
+}
